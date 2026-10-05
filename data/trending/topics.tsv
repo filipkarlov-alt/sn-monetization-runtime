@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-05T11:12:45.818Z; n=40
-bitcoin mining	sn:Permaculture	3.82	no	RISING
-producing	sn:Permaculture	3.82	no	RISING
-buying	sn:bitcoin	3.75	yes	
-square	sn:bitcoin	3.75	yes	
-complaining about london	sn:art	3.33	no	RISING
-national pastime	sn:art	3.33	no	RISING
-bryce elder	sn:art	3.33	no	RISING
-sunday discussion thread	sn:Stacker_Sports	3.31	no	RISING
-banking whistleblower who exposed lutnick	sn:Politics_And_Law	3.25	no	RISING
-epstein ties dies	sn:Politics_And_Law	3.25	no	RISING
-ruled suicide	sn:Politics_And_Law	3.25	no	RISING
-resurrected	sn:bitcoinplusplus	3.16	no	RISING
-five dollar wrench	sn:bitcoin	3.12	yes	
-patriots corral bills	sn:Stacker_Sports	3.04	no	RISING
-my three takeways	sn:Stacker_Sports	3.04	no	RISING
-has any generation been so negative about	sn:history	3.02	no	RISING
-present	sn:history	3.02	no	RISING
-jemima kelly	sn:history	3.02	no	RISING
-biggest channel opened today	sn:lightning	3.01	no	RISING
-new node spotlight	sn:lightning	3.01	no	RISING
-is protecting aaron donald from aaron donald	sn:Stacker_Sports	2.96	no	RISING
-tell	hn	2.95	no	RISING
-bob cringely	hn	2.95	no	RISING
-how autonomous fleets can power green cities	sn:Construction_and_Engineering	2.95	no	RISING
-clean grids	sn:Construction_and_Engineering	2.95	no	RISING
-erica komisar	sn:family	2.94	no	RISING
-discipline children	sn:family	2.94	no	RISING
-orange	sn:news	2.92	no	RISING
-juice	sn:news	2.92	no	RISING
-reported	sn:news	2.92	no	RISING
-bitcoin treasury claim remains unverified	sn:news	2.92	no	RISING
-run qwen	hn	2.91	no	RISING
-flash next	hn	2.91	no	RISING
-public	sn:bitcoin	2.87	yes	
-today	sn:Design	2.82	no	RISING
-best website design	sn:Design	2.82	no	RISING
-edolus	sn:Design	2.82	no	RISING
-yann trevelot	sn:Design	2.82	no	RISING
-fabulous debt	sn:BooksAndArticles	2.79	no	RISING
-wigglesworth	sn:BooksAndArticles	2.79	no	RISING
+# generated 2026-10-05T22:20:00.611Z; n=40
+bitcoin	sn:AskSN,sn:bitcoin	10.3	yes	
+prediction markets	sn:bitcoin,sn:Politics_And_Law	6.76	yes	
+what	sn:bitcoin,sn:AskSN	6.19	yes	
+nobel prize	hn,sn:science	5.43	no	RISING
+all ownership	sn:AskSN	4.04	no	RISING
+provisional	sn:AskSN	4.04	no	RISING
+can you own	sn:AskSN	4.04	no	RISING
+forest	sn:AskSN	4.04	no	RISING
+what about	sn:AskSN	4.04	no	RISING
+glimpse	sn:bitcoin	3.73	yes	
+live	sn:bitcoin	3.73	yes	
+prices	sn:bitcoin	3.73	yes	
+math puzzle	sn:math	3.48	no	RISING
+an infinite orchard	sn:math	3.48	no	RISING
+christmas	sn:HealthAndFitness	3.45	no	RISING
+controlling neural circuits	sn:science	3.4	no	RISING
+light	sn:science	3.4	no	RISING
+bitcoin stablecoins	sn:bitcoin	3.36	yes	
+freedom	sn:bitcoin	3.36	yes	
+choose	sn:bitcoin	3.36	yes	
+china shuts hundreds	sn:Politics_And_Law	3.32	no	RISING
+banks	sn:Politics_And_Law	3.32	no	RISING
+beijing moves	sn:Politics_And_Law	3.32	no	RISING
+shore up	sn:Politics_And_Law	3.32	no	RISING
+financial system	sn:Politics_And_Law	3.32	no	RISING
+economic gravity	sn:econ	3.3	no	RISING
+you can	sn:econ	3.3	no	RISING
+unilaterally increase your own economic value	sn:econ	3.3	no	RISING
+john maynard keynes	sn:HealthAndFitness	3.29	no	RISING
+search	sn:HealthAndFitness	3.29	no	RISING
+what makes	sn:HealthAndFitness	3.29	no	RISING
+good life	sn:HealthAndFitness	3.29	no	RISING
+james graham	sn:HealthAndFitness	3.29	no	RISING
+fabulous debt	sn:BooksAndArticles	3.28	no	RISING
+wigglesworth	sn:BooksAndArticles	3.28	no	RISING
+history	sn:BooksAndArticles	3.28	no	RISING
+bond market	sn:BooksAndArticles	3.28	no	RISING
+james grant	sn:BooksAndArticles	3.28	no	RISING
+banking whistleblower who exposed lutnick	sn:Politics_And_Law	3.27	no	RISING
+epstein ties dies	sn:Politics_And_Law	3.27	no	RISING
