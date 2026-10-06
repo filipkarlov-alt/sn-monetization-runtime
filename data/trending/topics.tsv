@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-10-05T22:20:00.611Z; n=40
-bitcoin	sn:AskSN,sn:bitcoin	10.3	yes	
-prediction markets	sn:bitcoin,sn:Politics_And_Law	6.76	yes	
-what	sn:bitcoin,sn:AskSN	6.19	yes	
-nobel prize	hn,sn:science	5.43	no	RISING
+# generated 2026-10-06T11:02:50.567Z; n=40
+bitcoin	sn:AskSN,sn:bitcoin	7.28	yes	
+michael munger	sn:BooksAndArticles	6.25	no	RISING
+nobel prize	hn,sn:science	5.37	no	RISING
+stacker news zine	sn:meta	4.09	yes	
+bitcoin stablecoins	sn:bitcoin	4.09	yes	
+freedom	sn:bitcoin	4.09	yes	
+choose	sn:bitcoin	4.09	yes	
 all ownership	sn:AskSN	4.04	no	RISING
 provisional	sn:AskSN	4.04	no	RISING
 can you own	sn:AskSN	4.04	no	RISING
 forest	sn:AskSN	4.04	no	RISING
 what about	sn:AskSN	4.04	no	RISING
+the state	sn:BooksAndArticles	3.82	no	RISING
+entrepreneurial	sn:BooksAndArticles	3.82	no	RISING
+it matches nature	sn:BooksAndArticles	3.82	no	RISING
+entrepreneurs	sn:BooksAndArticles	3.82	no	RISING
 glimpse	sn:bitcoin	3.73	yes	
 live	sn:bitcoin	3.73	yes	
+prediction markets	sn:bitcoin	3.73	yes	
 prices	sn:bitcoin	3.73	yes	
 math puzzle	sn:math	3.48	no	RISING
 an infinite orchard	sn:math	3.48	no	RISING
 christmas	sn:HealthAndFitness	3.45	no	RISING
+china shuts hundreds	sn:Politics_And_Law	3.45	no	RISING
+banks	sn:Politics_And_Law	3.45	no	RISING
+beijing moves	sn:Politics_And_Law	3.45	no	RISING
+shore up	sn:Politics_And_Law	3.45	no	RISING
+financial system	sn:Politics_And_Law	3.45	no	RISING
 controlling neural circuits	sn:science	3.4	no	RISING
 light	sn:science	3.4	no	RISING
-bitcoin stablecoins	sn:bitcoin	3.36	yes	
-freedom	sn:bitcoin	3.36	yes	
-choose	sn:bitcoin	3.36	yes	
-china shuts hundreds	sn:Politics_And_Law	3.32	no	RISING
-banks	sn:Politics_And_Law	3.32	no	RISING
-beijing moves	sn:Politics_And_Law	3.32	no	RISING
-shore up	sn:Politics_And_Law	3.32	no	RISING
-financial system	sn:Politics_And_Law	3.32	no	RISING
 economic gravity	sn:econ	3.3	no	RISING
 you can	sn:econ	3.3	no	RISING
 unilaterally increase your own economic value	sn:econ	3.3	no	RISING
-john maynard keynes	sn:HealthAndFitness	3.29	no	RISING
-search	sn:HealthAndFitness	3.29	no	RISING
-what makes	sn:HealthAndFitness	3.29	no	RISING
-good life	sn:HealthAndFitness	3.29	no	RISING
-james graham	sn:HealthAndFitness	3.29	no	RISING
-fabulous debt	sn:BooksAndArticles	3.28	no	RISING
-wigglesworth	sn:BooksAndArticles	3.28	no	RISING
-history	sn:BooksAndArticles	3.28	no	RISING
-bond market	sn:BooksAndArticles	3.28	no	RISING
-james grant	sn:BooksAndArticles	3.28	no	RISING
-banking whistleblower who exposed lutnick	sn:Politics_And_Law	3.27	no	RISING
-epstein ties dies	sn:Politics_And_Law	3.27	no	RISING
+privacy-focused	sn:privacy	3.27	no	RISING
+phreeli	sn:privacy	3.27	no	RISING
+join	sn:Stacker_Sports	3.26	no	RISING
+last	sn:Stacker_Sports	3.26	no	RISING
+what	sn:bitcoin	3.24	yes	
+digital	sn:ideasfromtheedge	3.24	no	RISING
+crownie	sn:food_and_drinks	3.21	no	RISING
