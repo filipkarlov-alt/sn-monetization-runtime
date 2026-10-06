@@ -55070,3 +55070,16 @@
 2026-10-06T13:13:19.104Z	1589754	Politics_And_Law	3	112	0	1	1.0	280679	23694	recent@econ|top@econ|recent@Politics_And_Law	FRESH,SIGNAL	A Window of Opportunity Opens in Brazil
 2026-10-06T13:13:19.104Z	1589534	Photography	3	110	0	1	11.8	1250874	441	recent@Photography|top@Photography	SIGNAL	26 years old
 2026-10-06T13:13:19.104Z	1589679	AI	1	102	0	0	3.5	1054143	1392	recent@AI|top@AI	SIGNAL	South Korea Warns Of Possible AI Use In Banking Hacks
+2026-10-06T15:50:04.613Z	1589766	lightning	1	1361	0	5	3.1	263526	897	recent@lightning|top@lightning	HOT,SIGNAL	Ben Carman SLP779 | Lightning in x402 and Agent Payments
+2026-10-06T15:50:04.613Z	1589945	bitdevs	1	508	0	0	0.3	74100	13082	recent@bitdevs|top@bitdevs|recent@lightning	FRESH,SIGNAL	Fedimint discloses a bug in Lightning gateway's LNv2 payment handling
+2026-10-06T15:50:04.613Z	1589809	lightning	1	480	0	1	2.5	163128	3939	recent@lightning|top@lightning	SIGNAL	Unfunded channel flood DoS vulnerability fixed in Eclair v0.14.1
+2026-10-06T15:50:04.613Z	1589791	lightning	1	390	0	0	2.7	163128	3939	recent@lightning|top@lightning	SIGNAL	DoS: Fake Lightning Channels (2023)
+2026-10-06T15:50:04.613Z	1589838	lightning	1	357	0	1	2.1	163128	3939	recent@lightning|top@lightning	SIGNAL	ACINQ/eclair · Release v0.14.3 · upgrade highly recommended
+2026-10-06T15:50:04.613Z	1589662	AI	1	339	0	0	7.9	934367	1100	recent@tech|top@tech|recent@AI	SIGNAL	Open-weight models are winning
+2026-10-06T15:50:04.613Z	1589906	AskSN	2	315	0	3	1.2	375108	376	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH,SIGNAL	AskSN: How long should a P2P exchange over Lightning take?
+2026-10-06T15:50:04.613Z	1589943	bitcoin	1	159	0	1	0.3	296825	5537	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	Joinstr: Coinjoin pools using MuSig2 and pre-signed transactions.
+2026-10-06T15:50:04.613Z	1589780	bitcoin_beginners	1	154	0	0	2.8	296825	5537	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Global Map of Computers Mining Bitcoin
+2026-10-06T15:50:04.613Z	1589905	security	1	138	0	2	1.2	51481	4281	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	EntropySeal - Reusable Tamper Proof Storage Option - Private Keys Storage
+2026-10-06T15:50:04.613Z	1589739	Design	2	138	0	0	4.3	272410	1765	recent@devs|top@devs	SIGNAL	New FOSS web browser Blanc opts for a different kind of UI
+2026-10-06T15:50:04.613Z	1589690	meta	1	110	0	0	5.8	36151	1660	recent@meta|top@meta	SIGNAL	This Day on SN: October 6
+2026-10-06T15:50:04.613Z	1589679	AI	1	102	0	0	6.1	1054143	1392	recent@AI|top@AI	SIGNAL	South Korea Warns Of Possible AI Use In Banking Hacks
